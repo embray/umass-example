@@ -1,5 +1,7 @@
-HOLY CRAP THIS IS CRAZY!!!
-Let's learn git!
+
+I want to learn to be as awesome as Erik.
+
+Let's learn git! +1
 
 Lets learn more git!
 
