@@ -2,8 +2,8 @@ I want to set this up for my word documents; will this work in libreoffice, or i
 better text editor that is good for writing manuscripts and managing versions?
 Let's learn git!
 
-Let learn more git!
+Lets learn more git!
 
 Life is Learning and Applying!
 
-I want to learn how to play piano.
+The quick brown fox jumped over the lazy dogs
