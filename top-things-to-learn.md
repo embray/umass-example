@@ -43,9 +43,7 @@ I want to learn to be as awesome as Erik.
 
 Let's learn git! +1
 
-Life is Learning and Applying! +2
-
-
+Life is Learning and Applying!
 
 Let's git this over with.
 
