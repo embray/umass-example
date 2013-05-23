@@ -10,22 +10,15 @@ testing testing testing
 
 I want to learn to be as awesome as Erik.
 
-playing playing playing
-
-testing testing testing
+afeefwafwefwe
+Let's learn git!
+I want to learn to be as awesome as Erik.
+Let's learn git!
+Lets learn more git!
+Let's learn git!
 I want to learn to be as awesome as Erik.
 
-
-
-Let's learn git!
-We are learning git... yay....!!!!
-Let's learn git! +1
-
-
-Lets learn more git!
-
-Life is Learning and Applying!
-Computing makes life easy..!
+EAFP!!!
 
 Let's learn literate programming!
 Let's learn unit testing!
@@ -35,9 +28,12 @@ I want to learn to be as awesome as Erik. +1
 
 I'd rather have a bottle in front of me than a frontal lobotomy !
 
-Life is GOOD.... LG..!!
+add my stuff
+Let's learn git!
 
 testing testing testing
+
+What if I edit it on github.com?
 
 I want to learn to be as awesome as Erik.
 
@@ -47,14 +43,23 @@ Life is Learning and Applying! +2
 
 After the attempted applying comes crying.
 
-Let's git this over with.
+But thanks for a great class.
+
+How can I resolve these conflicts
 
 The quick brown fox jumped over the lazy dogs
-
-This is awesome exercise!
+WOOF!!!!!!
+I want to learn how to write elegant and efficient code.
 
 How can I resolve these conflicts
 The quick brown fox jumped over the lazy dogs
+WOOF!!!!!!
+
 
 This is awesome exercise!
-This camp is awesome...
+
+Okay I don't care about efficiency, I just want it to work
+I want to set this up for my word documents; will this work in libreoffice, or is there a 
+better text editor that is good for writing manuscripts and managing versions?
+
+Yes, you can do stuff with Word, you have to setup the diff to know how to read the word files
