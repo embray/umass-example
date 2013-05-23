@@ -33,6 +33,13 @@ Let's learn git! +1
 Life is Learning and Applying! +2
 
 
+
+Let's git this over with.
+
+The quick brown fox jumped over the lazy dogs
+
+This is awesome exercise!
+
 How can I resolve these conflicts
 The quick brown fox jumped over the lazy dogs
 
@@ -41,4 +48,5 @@ This camp is awesome...!!!
 
 I want to set this up for my word documents; will this work in libreoffice, or is there a 
 better text editor that is good for writing manuscripts and managing versions?
+
 
