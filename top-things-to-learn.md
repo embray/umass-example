@@ -39,7 +39,6 @@ Let's learn git! +1
 
 Life is Learning and Applying! +2
 
-<<<<<<< HEAD
 After the attempted applying comes crying.
 
 But thanks for a great class.
