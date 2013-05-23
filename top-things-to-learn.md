@@ -55,13 +55,10 @@ How can I resolve these conflicts
 =======
 >>>>>>> 3ce20c051b934b7dfa0b693a79b000294e8ef064
 The quick brown fox jumped over the lazy dogs
-<<<<<<< HEAD
 WOOF!!!!!!
-=======
 
 
 This is awesome exercise!
-<<<<<<< HEAD
 
 Okay I don't care about efficiency, I just want it to work
 =======
@@ -69,7 +66,12 @@ Okay I don't care about efficiency, I just want it to work
 
 I want to set this up for my word documents; will this work in libreoffice, or is there a 
 better text editor that is good for writing manuscripts and managing versions?
+<<<<<<< HEAD
 >>>>>>> c034a059c3939021c502c0186bf37b34ff1f9198
 =======
 >>>>>>> cec69dd99429ffac3ab9254f3a850c2ce26a62b4
 >>>>>>> 3ce20c051b934b7dfa0b693a79b000294e8ef064
+=======
+
+Yes, you can do stuff with Word, you have to setup the diff to know how to read the word files
+>>>>>>> c1bfd4869da5a78723980d5aa4422f9564a80173
