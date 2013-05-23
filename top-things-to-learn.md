@@ -5,18 +5,18 @@ I want to learn to be as awesome as Erik. +1
 I'd rather have a bottle in front of me than a frontal lobotomy !
 
 add my stuff
-Let's learn git!
 
 testing testing testing
 
 Life is Learning and Applying! +2
 
-How can I resolve these conflicts
+Let's git this over with.
 The quick brown fox jumped over the lazy dogs
+
+This is awesome exercise!
+How can I resolve these conflicts
 
 This is awesome exercise!
 
 I want to set this up for my word documents; will this work in libreoffice, or is there a 
 better text editor that is good for writing manuscripts and managing versions?
-
-
