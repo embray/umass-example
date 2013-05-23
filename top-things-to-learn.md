@@ -1,3 +1,6 @@
 
-Let's learn git!  We're already doing that!
-Hurrah!
+Let's learn git!
+
+Let learn more git!
+
+Life is Learning and Applying!
