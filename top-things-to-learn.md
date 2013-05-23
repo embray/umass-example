@@ -1,6 +1,6 @@
 I want to learn to be as awesome as Erik.
 
-Let's learn git!
+Let's learn git! +1
 
 Lets learn more git!
 
