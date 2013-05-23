@@ -1,16 +1,74 @@
-<<<<<<< HEAD
-testing testing testing
-=======
-I want to learn to be as awesome as Erik.
->>>>>>> f08e35cac36e718eb84f85c5c56a6d60e474fa00
+Let's learn how to play cricket!
+?? is this working yet ??
 
+I'd rather have a bottle in front of me than a frontal lobotomy !
+
+add my stuff
+Let's learn git!
+testing testing testing
+
+I want to learn to be as awesome as Erik.
+
+afeefwafwefwe
+Let's learn git!
+I want to learn to be as awesome as Erik.
+Let's learn git!
+Lets learn more git!
+Let's learn git!
+I want to learn to be as awesome as Erik.
+
+EAFP!!!
+
+Let's learn literate programming!
+Let's learn unit testing!
 Let's learn git! +1
 
-Lets learn more git!
+I want to learn to be as awesome as Erik. +1
 
-Life is Learning and Applying!
+I'd rather have a bottle in front of me than a frontal lobotomy !
 
-How can I resolve these conflicts
+add my stuff
+
+testing testing testing
+
+Life is Learning and Applying! +2
+
+Let's git this over with.
 The quick brown fox jumped over the lazy dogs
 
 This is awesome exercise!
+How can I resolve these conflicts
+
+I want to set this up for my word documents; will this work in libreoffice, or is there a 
+better text editor that is good for writing manuscripts and managing versions?
+
+What if I edit it on github.com?
+
+Let's learn git! +1
+
+Life is Learning and Applying! +2
+
+After the attempted applying comes crying.
+
+But thanks for a great class.
+
+How can I resolve these conflicts
+
+The quick brown fox jumped over the lazy dogs
+WOOF!!!!!!
+I want to learn how to write elegant and efficient code.
+
+How can I resolve these conflicts
+
+This is awesome exercise!
+
+I want to learn how to write elegant and efficient code.
+
+How can I resolve these conflicts
+Okay I don't care about efficiency, I just want it to work
+
+I want to set this up for my word documents; will this work in libreoffice, or is there a 
+better text editor that is good for writing manuscripts and managing versions?
+
+Yes, you can do stuff with Word, you have to setup the diff to know how to read the word files
+No, I hate Word!
