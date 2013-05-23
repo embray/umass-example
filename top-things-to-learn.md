@@ -1,2 +1,3 @@
 
-Let's learn git!
+Let's learn git!  We're already doing that!
+Hurrah!
