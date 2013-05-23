@@ -1,5 +1,6 @@
 
-Let's learn git! +1
+I'd rather have a bottle in front of me than a frontal lobotomy !
+
 
 Lets learn more git!
 
