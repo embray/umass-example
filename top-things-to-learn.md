@@ -1,3 +1,14 @@
+?? is this working yet ??
+
+
+I'd rather have a bottle in front of me than a frontal lobotomy !
+
+
+add my stuff
+Let's learn git!
+testing testing testing
+
+I want to learn to be as awesome as Erik.
 
 playing playing playing
 
@@ -46,5 +57,4 @@ How can I resolve these conflicts
 The quick brown fox jumped over the lazy dogs
 
 This is awesome exercise!
-This camp is awesome...!!!
-
+This camp is awesome...
