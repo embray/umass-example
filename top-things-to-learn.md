@@ -1,4 +1,5 @@
 Let's learn how to play cricket!
+?? is this working yet ??
 
 I'd rather have a bottle in front of me than a frontal lobotomy !
 
@@ -30,7 +31,6 @@ add my stuff
 
 testing testing testing
 
-<<<<<<< HEAD
 Life is Learning and Applying! +2
 
 Let's git this over with.
@@ -52,8 +52,6 @@ WOOF!!!!!!
 
 This is awesome exercise!
 
-I want to set this up for my word documents; will this work in libreoffice, or is there a 
-better text editor that is good for writing manuscripts and managing versions?
 I want to learn how to write elegant and efficient code.
 
 How can I resolve these conflicts
