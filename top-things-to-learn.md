@@ -41,14 +41,24 @@ How can I resolve these conflicts
 
 I want to set this up for my word documents; will this work in libreoffice, or is there a 
 better text editor that is good for writing manuscripts and managing versions?
-I want to learn to be as awesome as Erik.
+
+What if I edit it on github.com?
 
 Let's learn git! +1
 
 Life is Learning and Applying! +2
 
+After the attempted applying comes crying.
+
+But thanks for a great class.
+
+How can I resolve these conflicts
+
 The quick brown fox jumped over the lazy dogs
 WOOF!!!!!!
+I want to learn how to write elegant and efficient code.
+
+How can I resolve these conflicts
 
 This is awesome exercise!
 
