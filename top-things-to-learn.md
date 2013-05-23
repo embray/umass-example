@@ -1,3 +1,10 @@
+Let's learn how to play cricket!
+
+Let's learn git!
+I want to learn to be as awesome as Erik.
+Let's learn git!
+Lets learn more git!
+Let's learn git!
 I want to learn to be as awesome as Erik.
 
 EAFP!!!
@@ -30,3 +37,9 @@ Let's learn git! +1
 Life is Learning and Applying! +2
 
 The quick brown fox jumped over the lazy dogs
+WOOF!!!!!!
+
+This is awesome exercise!
+
+I want to set this up for my word documents; will this work in libreoffice, or is there a 
+better text editor that is good for writing manuscripts and managing versions?
