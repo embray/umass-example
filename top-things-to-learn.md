@@ -1,5 +1,14 @@
 Let's learn how to play cricket!
 
+I'd rather have a bottle in front of me than a frontal lobotomy !
+
+add my stuff
+Let's learn git!
+testing testing testing
+
+I want to learn to be as awesome as Erik.
+
+afeefwafwefwe
 Let's learn git!
 I want to learn to be as awesome as Erik.
 Let's learn git!
@@ -21,6 +30,7 @@ add my stuff
 
 testing testing testing
 
+<<<<<<< HEAD
 Life is Learning and Applying! +2
 
 Let's git this over with.
@@ -31,6 +41,7 @@ How can I resolve these conflicts
 
 I want to set this up for my word documents; will this work in libreoffice, or is there a 
 better text editor that is good for writing manuscripts and managing versions?
+I want to learn to be as awesome as Erik.
 
 Let's learn git! +1
 
@@ -43,3 +54,13 @@ This is awesome exercise!
 
 I want to set this up for my word documents; will this work in libreoffice, or is there a 
 better text editor that is good for writing manuscripts and managing versions?
+I want to learn how to write elegant and efficient code.
+
+How can I resolve these conflicts
+Okay I don't care about efficiency, I just want it to work
+
+I want to set this up for my word documents; will this work in libreoffice, or is there a 
+better text editor that is good for writing manuscripts and managing versions?
+
+Yes, you can do stuff with Word, you have to setup the diff to know how to read the word files
+No, I hate Word!
